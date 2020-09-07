@@ -11,10 +11,10 @@ There are two components of dimensionality reduction:
 
 Dimensionality reduction, or dimension reduction, is the transformation of data from a high-dimensional space into a low-dimensional space so that the low-dimensional representation retains some meaningful properties of the original data.
 
-The various methods used for dimensionality reduction include:
-### Principal Component Analysis (PCA)
-### Linear Discriminant Analysis (LDA)
-### Generalized Discriminant Analysis (GDA)
+### The various methods used for dimensionality reduction include:
+    1.Principal Component Analysis (PCA)
+    2.Linear Discriminant Analysis (LDA)
+    3. Generalized Discriminant Analysis (GDA)
 
 
 ## PCA:
