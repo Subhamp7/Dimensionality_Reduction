@@ -14,7 +14,7 @@ Dimensionality reduction, or dimension reduction, is the transformation of data 
 ### The various methods used for dimensionality reduction include:
     1.Principal Component Analysis (PCA)
     2.Linear Discriminant Analysis (LDA)
-    3. Generalized Discriminant Analysis (GDA)
+    3.Generalized Discriminant Analysis (GDA)
 
 
 ## PCA:
